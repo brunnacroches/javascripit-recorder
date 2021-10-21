@@ -1,2 +1,2 @@
-# javascripit-recorder
-javascripit-recorder
+# javascript-recorder
+javascript-recorder
